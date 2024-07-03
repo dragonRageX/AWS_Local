@@ -1,17 +1,13 @@
 
 
 
-
-https://docs.localstack.cloud/integrations/
-
-
-## Installation/Starting Localstack (Option 1)
+## Installation (Option 1)
 ```
 python -m pip install localstack==0.9.0
 localstack start
 ```
 
-## Running localstack on Docker (Option 2)
+## Running on Docker (Option 2)
 ```
 docker run --rm -it -p 4566:4566 -p 4571:4571 localstack/localstack
 OR
