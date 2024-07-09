@@ -1,0 +1,16 @@
+{
+  "name": "ls-terraform",
+  "version": "1.0.0",
+  "description": "upload text file: demo-text to LocalStack s3 using Node.js",
+  "main": "s3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./s3.js"
+  },
+  "author": "Param Shah",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1656.0",
+    "dotenv": "^16.4.5"
+  }
+}

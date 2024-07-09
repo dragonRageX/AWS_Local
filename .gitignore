@@ -2,3 +2,5 @@
 venv/
 *.tfstate*
 *.terraform
+node_modules
+.env

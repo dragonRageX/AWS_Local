@@ -38,6 +38,7 @@ aws --endpoint-url=http://localhost:4566 s3api create-bucket --bucket my-bucket 
 ```
 aws --endpoint-url="http://localhost:4566" s3api put-object --bucket my-bucket --key screenshot --body "C:\Users\Param.DESKTOP-MEMSLIO\Pictures\Screenshots\Screenshot (63).png"
 ```
+* The --body parameter puts the linked image as the body of the object under the specified key.
 
 ![Screenshot (218)](https://github.com/dragonRageX/AWS_Local/assets/114085260/fe216f9a-56b8-4f2a-b13e-755c35b4f123)
 
