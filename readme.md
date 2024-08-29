@@ -34,7 +34,7 @@ aws --endpoint-url=http://localhost:4566 s3api create-bucket --bucket my-bucket 
 
 ![Screenshot (212)](https://github.com/dragonRageX/AWS_Local/assets/114085260/349dcf7f-a537-4628-9d13-e92fd2763769)
 
-### Uploading an object to s3:
+### Uploading an object to s3 via CLI:
 ```
 aws --endpoint-url="http://localhost:4566" s3api put-object --bucket my-bucket --key screenshot --body "C:\Users\Param.DESKTOP-MEMSLIO\Pictures\Screenshots\Screenshot (63).png"
 ```
