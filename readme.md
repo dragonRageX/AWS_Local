@@ -49,6 +49,10 @@ aws --endpoint-url="http://localhost:4566" s3api list-objects --bucket my-bucket
 
 ![Screenshot (221)](https://github.com/dragonRageX/AWS_Local/assets/114085260/ecac7016-d103-462c-aaa5-8bce826cc208)
 
+### Uploading an object to s3 via Node.js:
+
+![Screenshot (229)](https://github.com/user-attachments/assets/46953714-370a-47af-bf14-7bd4e1f9dc6a)
+
 
 # Get List of EC2 instances
 ### Run 'terraform init' and 'terraform apply' in the terraform folder terminal to setup the project and provision the specified EC2 instances.
