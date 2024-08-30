@@ -54,8 +54,7 @@ aws --endpoint-url="http://localhost:4566" s3api list-objects --bucket my-bucket
 ![Screenshot (229)](https://github.com/user-attachments/assets/46953714-370a-47af-bf14-7bd4e1f9dc6a)
 
 ### Accessing Bucket Info as well as its contents (including the demo-text file we uploaded to our s3 bucket instance) via Web:
-![Screenshot (228)](https://github.com/user-attachments/assets/b9b80a9a-cf01-466a-8924-52dc0ea5bdc8)
-
+![Screenshot (230)](https://github.com/user-attachments/assets/1bcf42f1-df70-4a9b-bbc7-30f4c2368651)
 
 
 # Get List of EC2 instances
